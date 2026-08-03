@@ -40,11 +40,12 @@
 **Ratchanon Noknoy**  
 - GitHub: [@ratchanon-noknoy2318](https://github.com/ratchanon-noknoy2318)  
 - LinkedIn: [linkedin.com/in/ratchanon-noknoy](https://linkedin.com/in/ratchanon-noknoy)  
-- Occupation: Solo Software Engineer
+- Role: Solo Software Engineer
 
 ---
 ## Usage Policy
 
-- ใช้สำหรับ **เว็บไซต์โรงพยาบาล เท่านั้นน**  
-- ห้ามนำไปใช้เพื่อการค้า หรือใช้งานนอกเหนือจากบริบทโรงพยาบาล 
+- ใช้สำหรับ **เว็บไซต์ ANC ของโรงพยาบาล** เท่านั้น
+- ห้ามนำไปใช้เพื่อการค้า หรือใช้งานนอกเหนือจากบริบทโรงพยาบาล
 - ต้องเคารพกฎหมายและข้อบังคับด้านข้อมูลส่วนบุคคล (PDPA/HIPAA)
+- ผู้พัฒนาขอสงวนสิทธิ์ไม่รับผิดชอบต่อการใช้งานที่ผิดวัตถุประสงค์
