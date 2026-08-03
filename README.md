@@ -30,6 +30,7 @@
    npm run dev
 
 2.เปิดเว็บที่ http://localhost:3000 เพื่อดูหน้าเว็บโรงพยาบาล
+
 3.แก้ไข content ในโฟลเดอร์ app/ เช่น contact details, FAQ
 
 ---
