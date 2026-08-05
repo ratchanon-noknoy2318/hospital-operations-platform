@@ -1,51 +1,55 @@
 # Hospital Website
 
-เว็บไซต์โรงพยาบาลที่พัฒนาด้วย **Next.js** และ **CSS**  
-รองรับการใช้งานบนมือถือ (Responsive design) และปรับแต่ง SEO เพื่อให้ติดอันดับการค้นหา Google
+A hospital website built with **Next.js** and **CSS**.  
+The website supports responsive design for mobile devices and tablets, with SEO optimization to improve Google search ranking.
 
 ---
 
 ## Features
-- หน้า Home, About, Services, Contact  
-- ระบบ FAQ และข้อมูลติดต่อ  
-- Responsive design (รองรับมือถือ/แท็บเล็ต)  
-- SEO optimization (เคยติดอันดับ Google #2 สำหรับ keyword เป้าหมาย)  
-- ใช้เทคโนโลยี Next.js + CSS  
+
+- Home, About, Services, and Contact pages
+- FAQ section and hospital contact information
+- Responsive design (mobile/tablet support)
+- SEO optimization (achieved Google ranking #2 for a target keyword)
+- Built with Next.js and CSS
 
 ---
 
 ## Requirements
-- Node.js (เวอร์ชันล่าสุด)  
-- npm สำหรับจัดการ dependencies  
-- Browser: Chrome/Edge/Firefox  
-- Hosting: Vercel
+
+- Node.js (latest version)
+- npm for dependency management
+- Browser: Chrome / Edge / Firefox
+- Hosting: [Vercel](https://vercel.com/)
 
 ---
 
 ## How to Use
-1. Clone repo  
-   ```bash
-   git clone https://github.com/ratchanon-noknoy2318/hospital_website.git
-   npm install
-   npm run dev
 
-2.เปิดเว็บที่ http://localhost:3000 เพื่อดูหน้าเว็บโรงพยาบาล
+1. Clone the repository
 
-3.แก้ไข content ในโฟลเดอร์ app/ เช่น contact details, FAQ
+```bash
+git clone https://github.com/ratchanon-noknoy2318/hospital_website.git
+npm install
+npm run dev
+
+```
+2. Open http://localhost:3000 to view the hospital website.
+3. Update website content in the app/ directory, such as contact details and FAQ content.
 
 ---
-
 ## Author
 
-**Ratchanon Noknoy**  
-- GitHub: [ratchanon-noknoy2318](https://github.com/ratchanon-noknoy2318)  
-- LinkedIn: [linkedin.com/in/ratchanon-noknoy](https://linkedin.com/in/ratchanon-noknoy)  
+Ratchanon Noknoy
+
+- GitHub: ratchanon-noknoy2318
+- LinkedIn: linkedin.com/in/ratchanon-noknoy
 - Role: Solo Software Engineer
 
 ---
+
 ## Usage Policy
 
-- ใช้สำหรับ **เว็บไซต์ของโรงพยาบาล** เท่านั้น
-- ห้ามนำไปใช้เพื่อการค้า หรือใช้งานนอกเหนือจากบริบทโรงพยาบาล
-- ต้องเคารพกฎหมายและข้อบังคับด้านข้อมูลส่วนบุคคล (PDPA/HIPAA)
-- ผู้พัฒนาขอสงวนสิทธิ์ไม่รับผิดชอบต่อการใช้งานที่ผิดวัตถุประสงค์
+- This project is intended for hospital website usage only.
+- Commercial use or usage outside the healthcare context is prohibited.
+- Users must comply with personal data protection regulations, including **Thailand PDPA** and **HIPAA-aligned practices**.
